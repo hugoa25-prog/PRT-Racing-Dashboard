@@ -18,3 +18,4 @@ dependencyResolutionManagement {
 rootProject.name = "PRT-Racing-Dashboard"
 
 include(":app")
+
